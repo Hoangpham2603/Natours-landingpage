@@ -1,0 +1,43 @@
+//Abstracts: 
+@import 'abstracts/functions';
+@import 'abstracts/mixins';
+@import 'abstracts/variables';
+
+// Base
+@import 'base/base';
+@import 'base/animation';
+@import 'base/typography';
+@import 'base/utilities';
+
+//components: 
+@import 'components/buttons';
+@import './components/featureBox';
+@import './components/composition';
+@import './components/card';
+@import './components//story';
+@import './components/bg-video';
+
+//layouts:
+@import 'layout/header';
+@import './layout/grid';
+
+//pages: 
+@import './pages/home';
+
+/*
+COLORS:
+
+Light green: #7ed56f
+Medium green: #55c57a
+Dark green: #28b485
+
+*/
+
+
+
+
+
+
+
+
+
